@@ -1,0 +1,17 @@
+{
+    "name": "Ana/Kelly",
+    "autoload": {
+        "psr-4": {
+            "Celke\\Celke\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AnaKelly",
+            "email": "kellyholanda59@gmail.com"
+        }
+    ],
+    "require": {
+        "chillerlan/php-qrcode": "^4.3"
+    }
+}
